@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel 11**
 
-- 💬 Ask me about **PHP, Laravel, MySQL, APIs**
+- 💬 Ask me about **PHP, Laravel, MySQL, APIs, Python**
 
 - 📫 How to reach me **shubhampatil6506@gmail.com**
 
